@@ -1,0 +1,10 @@
+../Core/Src/main.c:80:7:PID_Compute	5
+../Core/Src/main.c:101:6:Update_Servos	5
+../Core/Src/main.c:126:5:main	2
+../Core/Src/main.c:223:6:SystemClock_Config	3
+../Core/Src/main.c:269:13:MX_ADC1_Init	3
+../Core/Src/main.c:321:13:MX_I2C1_Init	2
+../Core/Src/main.c:355:13:MX_TIM2_Init	4
+../Core/Src/main.c:404:13:MX_TIM3_Init	4
+../Core/Src/main.c:453:13:MX_GPIO_Init	1
+../Core/Src/main.c:495:6:Error_Handler	1

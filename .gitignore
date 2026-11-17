@@ -1,0 +1,11 @@
+# STM32CubeIDE / Eclipse build artifacts
+/firmware/Debug/
+/firmware/Release/
+/.metadata/
+/.elf
+/.hex
+/.bin
+
+# OS files
+.DS_Store
+Thumbs.db
